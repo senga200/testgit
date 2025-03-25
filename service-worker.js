@@ -5,7 +5,8 @@ self.addEventListener('install', event => {
             return cache.addAll([
                 'index.html',
                 'styles.css',
-                'script.js',
+                'app.js',
+                'clic1.mp3',
                 'icon.png',
                 'cartoon.gif',
                 'offline.html' 
