@@ -6,6 +6,7 @@ self.addEventListener('install', event => {
                 'index.html',
                 'style.css',
                 'app.js',
+                'clic1.mp3',
                 'icon.png',
                 'cartoon.gif',
                 'offline.html' 
